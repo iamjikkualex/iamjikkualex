@@ -2,7 +2,7 @@
 
 Hello 👋, welcome to my GitHub profile!
 
-I'm Jikku, a software developer, and a learner who is exploring front-end and back-end development.
+I'm Jikku, a software developer and a learner who likes to explore front-end and back-end technologies.
 
 <br>
 
